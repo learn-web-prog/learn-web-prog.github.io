@@ -3,10 +3,11 @@
 		opacity: 1;
 	}
 	.services .item .description {
-		font-size: 25px;
+		font-size: 15px;
 	}
 	.services .item .title span {
-		font-size: 30px;
+		font-size: 20px;
+		letter-spacing: 0;
 	}
 	.rs_title_caption {
 		font-size: 12rem;
@@ -18,52 +19,60 @@
 		line-height: 4.5rem;
 	}
 	.page .page_title .title {
-		font-size: 4rem;
+		font-size: 3.3rem;
+		letter-spacing: 0;
 	}
 	.history_items .item .title {
-		font-size: 3rem;
+		font-size: 2.3rem;
 	}
 	.history_items .item .description {
-		font-size: 2.5rem;
+		font-size: 1.5rem;
+	}
+	.parallax_item.macbook .title {
+		font-size: 30px;
 	}
 	.btn {
-		font-size: 2rem;
+		font-size: 1.5rem;
 	}
 	h1 {
 		font-size: 40px;
 	}
 	h2 {
-		font-size: 35px;
+		font-size: 30px;
 	}
 	.contact_info .item .icon {
-		font-size: 7rem;
+		font-size: 5rem;
 	}
 	.contact_info .item .text .title {
-		font-size: 4rem;
+		font-size: 3rem;
 	}
 	.contact_info .item .text .value {
-		font-size: 3rem;
+		font-size: 2.3rem;
 	}
 	.page .page_title .description {
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 	.google_maps_btn {
-		font-size: 3.5rem;
+		font-size: 3rem;
+		letter-spacing: 0;
 	}
 	.logo span {
-		font-size: 4rem;
+		font-size: 2.5rem;
 	}
 	.footer .column > .title {
-		font-size: 3.8rem;
+		font-size: 2.5rem;
 	}
 	p {
-		font-size: 3rem;
-		line-height: 3.5rem;
+		font-size: 2rem;
+		line-height: 3rem;
 	}
 	.contact_items {
-		font-size: 3rem;
+		font-size: 2rem;
 	}
 	.header .header_inner .navbar li a {
-		font-size: 3rem;
+		font-size: 1.5rem;
+	}
+	.services .item .top i {
+		font-size: 50px;
 	}
 }
