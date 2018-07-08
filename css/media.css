@@ -1,0 +1,69 @@
+@media (max-width: 1024px) {
+	.anim_element {
+		opacity: 1;
+	}
+	.services .item .description {
+		font-size: 25px;
+	}
+	.services .item .title span {
+		font-size: 30px;
+	}
+	.rs_title_caption {
+		font-size: 12rem;
+	}
+	.rs_subtitle_caption {
+		font-size: 4rem;
+		padding-top: 100px;
+		text-align: center;
+		line-height: 4.5rem;
+	}
+	.page .page_title .title {
+		font-size: 4rem;
+	}
+	.history_items .item .title {
+		font-size: 3rem;
+	}
+	.history_items .item .description {
+		font-size: 2.5rem;
+	}
+	.btn {
+		font-size: 2rem;
+	}
+	h1 {
+		font-size: 40px;
+	}
+	h2 {
+		font-size: 35px;
+	}
+	.contact_info .item .icon {
+		font-size: 7rem;
+	}
+	.contact_info .item .text .title {
+		font-size: 4rem;
+	}
+	.contact_info .item .text .value {
+		font-size: 3rem;
+	}
+	.page .page_title .description {
+		font-size: 3rem;
+	}
+	.google_maps_btn {
+		font-size: 3.5rem;
+	}
+	.logo span {
+		font-size: 4rem;
+	}
+	.footer .column > .title {
+		font-size: 3.8rem;
+	}
+	p {
+		font-size: 3rem;
+		line-height: 3.5rem;
+	}
+	.contact_items {
+		font-size: 3rem;
+	}
+	.header .header_inner .navbar li a {
+		font-size: 3rem;
+	}
+}
